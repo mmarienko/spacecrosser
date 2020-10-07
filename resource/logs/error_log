@@ -1,0 +1,14 @@
+endgame(41221,0x1130675c0) malloc: *** error for object 0x7ff120c2ab30: pointer being freed was not allocated
+endgame(41221,0x1130675c0) malloc: *** set a breakpoint in malloc_error_break to debug
+endgame(31409,0x10b8ed5c0) malloc: *** error for object 0x7f9456d632e0: pointer being freed was not allocated
+endgame(31409,0x10b8ed5c0) malloc: *** set a breakpoint in malloc_error_break to debug
+endgame(31446,0x10b0bb5c0) malloc: *** error for object 0x7f81766885c0: pointer being freed was not allocated
+endgame(31446,0x10b0bb5c0) malloc: *** set a breakpoint in malloc_error_break to debug
+endgame(31483,0x109e4b5c0) malloc: *** error for object 0x7ff8bc68e280: pointer being freed was not allocated
+endgame(31483,0x109e4b5c0) malloc: *** set a breakpoint in malloc_error_break to debug
+endgame(31702,0x10f5585c0) malloc: *** error for object 0x7f86424ad6c0: pointer being freed was not allocated
+endgame(31702,0x10f5585c0) malloc: *** set a breakpoint in malloc_error_break to debug
+endgame(32295,0x112d0e5c0) malloc: *** error for object 0x7f9a77e73780: pointer being freed was not allocated
+endgame(32295,0x112d0e5c0) malloc: *** set a breakpoint in malloc_error_break to debug
+endgame(32533,0x108ad05c0) malloc: *** error for object 0x7ff9c0e293f0: pointer being freed was not allocated
+endgame(32533,0x108ad05c0) malloc: *** set a breakpoint in malloc_error_break to debug
