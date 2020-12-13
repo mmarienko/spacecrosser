@@ -1,5 +1,5 @@
 # EndGame - Space Crosser
-specially for Ucode Connect
+especially for Ucode Connect
 
 main commands:
 
